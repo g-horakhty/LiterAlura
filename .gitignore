@@ -1,0 +1,22 @@
+# Arquivos do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# Arquivos do IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Arquivos do Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
