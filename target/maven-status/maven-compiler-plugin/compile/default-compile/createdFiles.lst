@@ -1,0 +1,11 @@
+com\literalura\literalura\repository\AuthorRepository.class
+com\literalura\literalura\repository\BookRepository.class
+com\literalura\literalura\config\RestTemplateConfig.class
+com\literalura\literalura\dto\BookResponse$BookData.class
+com\literalura\literalura\model\Author.class
+com\literalura\literalura\dto\AuthorResponse.class
+com\literalura\literalura\dto\BookResponse.class
+com\literalura\literalura\LiteraluraApplication.class
+com\literalura\literalura\service\GutendexService.class
+com\literalura\literalura\service\MainService.class
+com\literalura\literalura\model\Book.class
